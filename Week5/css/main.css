@@ -1,0 +1,84 @@
+body { 
+	background: url("../images/hongkong3.jpg") no-repeat center fixed; 
+    background-size: cover;
+	margin: 0px 50px;
+	background-color: white;
+	text-align: left;
+	color: white;
+	line-height: 19px;
+/*    background-repeat: no-repeat;
+*/	font-family: 'Raleway', sans-serif;
+	padding-left: 50px;
+	padding-right: 50px;
+	/*display: block;*/
+
+}
+
+nav {
+	float: right;
+	margin-right: 150px;
+	margin-left: 120px;
+	padding-top: 100px;
+	margin: 5px 5px 5px 5px;
+border-bottom: solid;
+width: 290px;
+}
+ul li{
+	float: right;
+	list-style: none;
+	display: inline;
+	margin: 10px;
+
+}
+
+header{
+	padding-top: 20px;
+	opacity:.85;
+	width: 400px;
+	float: left;
+	margin: 0;
+	position: relative;
+}
+
+#wrapper {
+    width: 960px;
+    margin: 0 auto;
+    style="margin:0 auto; width:500px; position:absolute;">
+}
+
+#about{ 
+font-color: black;	
+font-size: 25px;
+font-weight: lighter;
+line-height: 38px;
+padding-top: 10px;
+padding-left: 30px;
+padding-right: 30px;
+padding-bottom: 5px;
+margin: 100px 50px 100px 350px;
+list-style: none;
+display: list-item;
+}
+
+#aboutbox
+{padding-top: 20px;
+padding-left: 20px;
+padding-right: 0px;
+opacity: .70;
+float:right;}
+
+#slogan {
+	font-style: italic; 
+	font-weight: lighter;
+	font-size: 25px;
+	text-align: left;
+	}
+
+
+	#href {
+	font-size: 11px;
+	text-transform: uppercase;
+	color: white;
+	a:hover {
+    color: red;
+}
