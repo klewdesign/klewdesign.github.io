@@ -24,7 +24,7 @@ p {line-height: 22px;
 /*	background-color: #81d8d0;
 */	float: left;
 	width: 420px;
-	height: 280px;
+	height: 500px;
 	margin: 20px;
 	padding: 20px;
 
@@ -33,7 +33,7 @@ p {line-height: 22px;
 /*	background-color: #b2d8d8;
 */	float: right;
 	width: 420px;
-	height: 280px;
+	height: 500px;
 	margin: 20px;
 	padding: 20px;
 }
