@@ -1,0 +1,54 @@
+h1 {font-size: 40px;
+font-style:"light"}
+h2 {font-size: 30px;}
+body {width: 90%;
+padding:30px;
+margin: 30px;
+font-size: 18px;
+line-height: 24px;
+font-family: "raleway";
+background-color: #b7cbc8;}
+
+hr {color: black;}
+
+nav 
+	{display: inline;
+	float: right;}
+ul li{
+	float: right;
+	list-style: none;
+	display: inline;
+	margin: 10px;
+	padding-left: 20px;}
+
+#project {width: 60%;
+padding-top: 80px;
+padding-left: 150px;}
+
+#mac { 
+	background-color: white; 
+	width: 60%;
+	margin-top: 80px;
+	margin-left: 150px;
+	padding: 20px;
+}
+
+#tablet {
+	background-color: white; 
+	width: 60%;
+	margin-left: 150px;
+	margin-top: 80px;
+	padding: 20px;
+}
+
+#mobile {
+	background-color: white; 
+	width: 60%;
+	margin-left: 150px;
+	margin-top: 80px;
+	padding: 20px;}
+
+#wrapper {
+    width: 1000px;
+    margin: 0 auto;
+}
