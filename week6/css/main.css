@@ -55,9 +55,9 @@ font-size: 30px;
 font-weight: lighter;
 line-height: 50px;
 padding-left: 30px;
-padding-right: 30px;
+/*padding-right: 30px;*/
 margin: 100px 150px 10px 30px;
-width: 1000px;
+width: 70%;
 float: right;
 opacity: .70;}
 
