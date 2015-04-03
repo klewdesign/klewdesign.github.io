@@ -48,15 +48,16 @@ header{
 
 #about{ 
 font-color: black;	
-font-size: 25px;
+font-size: 16px;
 font-weight: lighter;
-line-height: 38px;
+line-height: 20px;
 padding-top: 10px;
 padding-left: 30px;
 padding-right: 30px;
 padding-bottom: 5px;
-/*margin: 100px 50px 100px 350px;
-*/list-style: none;
+width: 400px;
+/*margin: 100px 50px 100px 350px;*/
+list-style: none;
 display: list-item;
 }
 
