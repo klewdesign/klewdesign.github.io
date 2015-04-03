@@ -17,11 +17,11 @@ body {
 nav {
 	float: right;
 	margin-right: 150px;
-	margin-left: 120px;
+	margin-left: 150px;
 	padding-top: 100px;
 	margin: 5px 5px 5px 5px;
-border-bottom: solid;
-width: 290px;
+/*border-bottom: solid;
+*/width: 290px;
 }
 ul li{
 	float: right;
@@ -56,8 +56,8 @@ padding-left: 30px;
 padding-right: 30px;
 padding-bottom: 5px;
 width: 400px;
-margin-top: 200px;
-margin-left: 250px;
+margin-top: 150px;
+margin-left: 200px;
 list-style: none;
 display: list-item;
 }
