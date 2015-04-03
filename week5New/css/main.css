@@ -56,7 +56,7 @@ padding-left: 30px;
 padding-right: 30px;
 padding-bottom: 5px;
 width: 400px;
-/*margin: 100px 50px 100px 350px;*/
+margin: 100px 50px 100px 100px;
 list-style: none;
 display: list-item;
 }
