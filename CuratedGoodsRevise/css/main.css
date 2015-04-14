@@ -36,8 +36,6 @@ nav {
 li{
 	list-style: none;
 	display: inline;
-	margin: .05%;
-	padding-right: 3em;
 }
 
 .clearfix:after {
